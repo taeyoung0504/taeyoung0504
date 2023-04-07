@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=Ubuntu&logoColor=black"/> 
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=CentOS&logoColor=black"/> 
 
 # 💪🏼 Tools 
