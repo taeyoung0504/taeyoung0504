@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Taeyoung%20Kim&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Taeyoung%20Kim&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=20&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 안녕하세요 
 방문해 주셔서 감사합니다. :)
