@@ -31,8 +31,4 @@
 정보보안기사
 
 
-header
-🛠️ Tech Stack 🛠️
-Techs that I've used
-
 
