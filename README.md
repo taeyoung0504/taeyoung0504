@@ -10,7 +10,7 @@
 
 
 # 💻 stack
-<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black/>
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)
